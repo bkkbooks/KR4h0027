@@ -123,6 +123,7 @@ markers:
   - {type: line-break, offset: 293, content: '', id: KR4h0027_WYG_001-2a07}
   - {type: indent, offset: 293, content: 　　, id: KR4h0027_krp_001-bkkind12}
   - {type: punctuation, offset: 298, content: (, id: KR4h0027_krp_001-bkkpn1}
+  - {type: voice, offset: 298, length: 9, name: note, id: n1}
   - {type: punctuation, offset: 303, content: /, id: KR4h0027_krp_001-bkkpn2}
   - {type: punctuation, offset: 307, content: ), id: KR4h0027_krp_001-bkkpn3}
   - {type: 'kr:newline', offset: 307, content: '
@@ -478,6 +479,7 @@ markers:
   - {type: line-break, offset: 1424, content: '', id: KR4h0027_WYG_001-6b02}
   - {type: indent, offset: 1424, content: 　　, id: KR4h0027_krp_001-bkkind26}
   - {type: punctuation, offset: 1428, content: (, id: KR4h0027_krp_001-bkkpn4}
+  - {type: voice, offset: 1428, length: 6, name: note, id: n2}
   - {type: substitution, offset: 1431, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16794}}
   - {type: punctuation, offset: 1434, content: /, id: KR4h0027_krp_001-bkkpn5}
   - {type: punctuation, offset: 1434, content: ), id: KR4h0027_krp_001-bkkpn6}
@@ -696,6 +698,7 @@ markers:
   - {type: line-break, offset: 2112, content: '', id: KR4h0027_WYG_001-9a04}
   - {type: indent, offset: 2112, content: 　　, id: KR4h0027_krp_001-bkkind37}
   - {type: punctuation, offset: 2119, content: (, id: KR4h0027_krp_001-bkkpn7}
+  - {type: voice, offset: 2119, length: 23, name: note, id: n3}
   - {type: punctuation, offset: 2131, content: /, id: KR4h0027_krp_001-bkkpn8}
   - {type: punctuation, offset: 2142, content: ), id: KR4h0027_krp_001-bkkpn9}
   - {type: 'kr:newline', offset: 2142, content: '
@@ -1374,4 +1377,4 @@ markers:
 
       ', id: KR4h0027_krp_001-bkkkrnewl287}
   back: []
-hash: sha256:ac205bc4ee6f4c159af58363c9a3d5600b4e4243b25772a5286333c9a690d0af
+hash: sha256:8e89dd17c6c889e18e5d94d132c9b93941c70b2b5d236e1fac8f8ec09b7a33f4
